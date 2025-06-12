@@ -1,0 +1,47 @@
+body {
+    background-color: #1a1a1a; /* Dark background */
+    color: #00ffcc; /* Neon text color */
+    font-family: 'Courier New', Courier, monospace; /* Tech-inspired font */
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.container {
+    border: 2px solid #00ffcc; /* Neon border */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 255, 204, 0.5); /* Neon glow */
+}
+
+h1 {
+    font-size: 24px;
+    text-shadow: 0 0 10px rgba(0, 255, 204, 0.8); /* Glowing text */
+}
+
+button {
+    background-color: #00ffcc; /* Neon button */
+    color: #1a1a1a; /* Dark text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #00cc99; /* Darker neon on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+#summary {
+    margin-top: 10px;
+    font-size: 14px;
+    max-height: 200px;
+    overflow-y: auto; /* Scroll if too long */
+    text-align: left;
+    padding: 10px;
+    background-color: rgba(0, 255, 204, 0.1); /* Slightly transparent background */
+    border-radius: 5px;
+}
