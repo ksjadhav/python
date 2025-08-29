@@ -1,5 +1,3 @@
-# Slot Machine 🎰
-# Codédex
 
 import random
 
