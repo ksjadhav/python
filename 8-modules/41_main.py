@@ -1,5 +1,4 @@
-# Countdown 🎂
-# Codédex
+
 
 import datetime, bday_messages
 
