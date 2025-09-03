@@ -1,5 +1,3 @@
-# Countdown 🎂
-# Codédex
 
 import random
 
